@@ -3,6 +3,24 @@
 A very simple TextMate bundle which contains some snippets and things (comment blocks, timestamps) for
 the programmers every-days needs.
 
+== Commands
+
+=== Comment block
+  :cb (-> Tab)
+
+  Creates a comment block like this:
+
+  # ---------------------------------------------------------------
+  # comment
+  # ---------------------------------------------------------------
+
+=== Stamp
+  :stamp (-> Tab)
+
+  Creates a comment like this:
+
+  Wed May  5 11:17:43 CEST 2010 [my-name] comment
+
 == Installation
 
   cd ~/Library/"Application Support"/TextMate/Bundles/
@@ -10,3 +28,7 @@ the programmers every-days needs.
 If that directory wasn't found, you'll need to create it, then:
 
   git clone git://github.com/remofritzsche/remofritzsche_textmate.git "remofritzsche.tmbundle"
+
+Then go to TextMate and choose
+
+  Bundles > Bundle Editor > Reload Bundles
