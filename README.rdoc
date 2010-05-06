@@ -1,7 +1,7 @@
 = Remo Fritzsche's TextMate Bundle
 
 A very simple TextMate bundle which contains some snippets and things (comment blocks, timestamps) for
-the programmers every-days needs.
+the programmers every-days needs. Quite personal, but maybe useful to fork for your own little bundle.
 
 == Commands
 
