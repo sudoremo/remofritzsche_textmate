@@ -17,6 +17,8 @@ the programmers every-days needs.
 === Java-Style comment block
 Similar to comment block, but for languages like Java, JavaScript and PHP (using /* .. */)
 
+  :jcb (->Tab)
+
 === Stamp
   :stamp (-> Tab)
 
