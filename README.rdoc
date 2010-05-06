@@ -14,12 +14,15 @@ the programmers every-days needs.
   # comment
   # ---------------------------------------------------------------
 
+=== Java-Style comment block
+Similar to comment block, but for languages like Java, JavaScript and PHP (using /* .. */)
+
 === Stamp
   :stamp (-> Tab)
 
   Creates a comment like this:
 
-  Wed May  5 11:17:43 CEST 2010 [my-name] comment
+  Wed May  5 20:17:43 CEST 2010 [my-name] comment
 
 == Installation
 
